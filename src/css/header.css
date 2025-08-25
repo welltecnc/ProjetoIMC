@@ -1,7 +1,11 @@
 .header{
     text-align:center;
-
     margin-bottom:20px;
     line-height:30px;
+    color:var(--fontColor3)
+}
+
+.footer{
+    margin-top:30px;
     color:var(--fontColor3)
 }
